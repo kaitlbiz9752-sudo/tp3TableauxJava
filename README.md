@@ -1,7 +1,6 @@
 # JAVA_Boucles_Tableaux
 
-## Structure du projet
-<img width="597" height="792" alt="image" src="https://github.com/user-attachments/assets/7df9a38b-3a17-45e6-912d-f8d141690798" />
+
 
 ---
 
