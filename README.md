@@ -7,7 +7,8 @@
 
 ## Exercice 1
 
-<img width="924" height="441" alt="Capture d&#39;écran 2026-01-07 114909" src="https://github.com/user-attachments/assets/bab8fbda-9627-4abe-9d15-f7adfb193240" />
+<img width="990" height="171" alt="image" src="https://github.com/user-attachments/assets/f39146e5-bb2b-42be-9437-c012475ad449" />
+
 
 ## Exercice 2
 
