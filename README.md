@@ -32,7 +32,8 @@
 
 ## Exercice 5 : Rotation en place d’une matrice N×N
 
-<img width="874" height="422" alt="Capture d&#39;écran 2026-01-07 115758" src="https://github.com/user-attachments/assets/7f383391-5c51-4a05-b42d-c22d8be7f63b" />
+<img width="246" height="202" alt="image" src="https://github.com/user-attachments/assets/4750fcab-5127-4d7a-bf13-4ffddf8d16ae" />
+
 
 ---
 
