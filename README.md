@@ -19,7 +19,8 @@
 
 ## Exercice 3
 
-<img width="914" height="459" alt="Capture d&#39;écran 2026-01-07 115344" src="https://github.com/user-attachments/assets/835780eb-935d-40d4-8b34-61cfb029ded9" />
+<img width="264" height="132" alt="image" src="https://github.com/user-attachments/assets/9c1afc6b-3a62-49d6-83c4-380e2080018a" />
+
 
 ---
 
