@@ -39,7 +39,8 @@
 
 ## Exercice 6 : Fenêtre glissante : nombre de valeurs distinctes par fenêtre
 
-<img width="902" height="436" alt="Capture d&#39;écran 2026-01-07 115934" src="https://github.com/user-attachments/assets/8b3ed225-6b07-4aeb-8378-55c8081c4d6f" />
+<img width="191" height="76" alt="image" src="https://github.com/user-attachments/assets/2a62203c-14c9-4a2b-b1fa-2655cc4dfa05" />
+
 
 ---
 
